@@ -1,8 +1,7 @@
-https://github.com/18-1-SKKU-OSS/PhantomBot## 2018-1-OSS-E1
-성균관대학교 오픈소스소프트웨어 실습 프로젝트
+# 성균관대학교 오픈소스소프트웨어 실습 프로젝트
 
 
-# 팀원 
+## 팀원 
 김진범
 이준석
 윤영석
@@ -16,10 +15,8 @@ Wiki https://github.com/18-1-SKKU-OSS/2018-1-OSS-E1/wiki
 정적페이지: https://18-1-skku-oss.github.io/2018-1-OSS-E1/
 
 
-
-
-phantomBot은 오픈소스로 개발된 대화
-
-
 ## 참여프로젝트
 https://github.com/18-1-SKKU-OSS/PhantomBot
+
+# <img alt="PhantomBot" src="https://i.zelakto.tv/images/bN4H.png" width="600px"/>
+PhantomBot은 java로 실행되는 챗봇으로  Discord, Twitter, GameWisp, TipeeeStream, StreamLabs and StreamElements과 같은 많은 서비스와 연동된다.
