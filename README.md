@@ -1,4 +1,4 @@
-## 2018-1-OSS-E1
+https://github.com/18-1-SKKU-OSS/PhantomBot## 2018-1-OSS-E1
 성균관대학교 오픈소스소프트웨어 실습 프로젝트
 
 
@@ -19,3 +19,7 @@ Wiki https://github.com/18-1-SKKU-OSS/2018-1-OSS-E1/wiki
 
 
 phantomBot은 오픈소스로 개발된 대화
+
+
+## 참여프로젝트
+https://github.com/18-1-SKKU-OSS/PhantomBot
